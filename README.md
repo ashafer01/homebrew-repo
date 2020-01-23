@@ -1,5 +1,7 @@
 # Ashafer01 Repo
 
+Homebrew formulae for scripts and tools that I've written.
+
 ## How do I install these formulae?
 `brew install ashafer01/repo/<formula>`
 
