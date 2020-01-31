@@ -1,8 +1,8 @@
 class HelmRelease < Formula
   desc "Simplified Helm Chart deployment tool"
   homepage "https://github.com/ashafer01/helm-release"
-  url "https://github.com/ashafer01/helm-release/archive/v0.1.1.tar.gz"
-  sha256 "b2b070a59f2637e242816a085d53bd2209bafa698c56130ecbe6f1351e69bb57"
+  url "https://github.com/ashafer01/helm-release/archive/v0.1.2.tar.gz"
+  sha256 "07e42789b0736eb9de4e8c1e75ae953a2eb2b20e5488e5abe8538358811c0b43"
 
   depends_on "helm"
   depends_on "jq"
